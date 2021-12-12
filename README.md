@@ -38,11 +38,26 @@
        Adding mongoose for better schemas 
        Updating code to use MVC design pattern  
   
-    
 
 ### Errors and Bugs 
 <p>If something behaves unexpectedly, it is likely a bug. Create an issue and report it <a href="https://github.com/MagicMarcos/only-ferns/issues">here</a>  </p>
 
+## Team 
+### Design (UX/UI)
+     <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
+     <a href="https://github.com/natashatorres">Natasha Torres</a>
+     <a href="https://github.com/betheld">Bethel Dawed</a>
+     <a href="https://github.com/sharob94">Shana Robinson</a>
+### Front End 
+     <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
+     <a href="https://github.com/Enrique2656">Duane Rymarowicz</a>
+     <a href="https://github.com/NDNey">David Ney</a>
+     <a href="https://github.com/natashatorres">Natasha Torres</a>
+### Back End
+     <a href="https://github.com/Enrique2656">Duane Rymarowicz</a>
+     <a href="https://github.com/NDNey">David Ney</a>
+     <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
+     
 ## Previews
 ![Home Page](https://res.cloudinary.com/codechella/image/upload/v1639340730/of-home_div2g3.png)
 
