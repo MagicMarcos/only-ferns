@@ -15,7 +15,7 @@
        Bootstrap 5: styling
        MongoDB: database
        Microsoft Azure AI Computer Vision: determines scholarships status 
-       Heroku: hosting</li>
+       Heroku: hosting
        Cloudinary: image hosting 
     
     
