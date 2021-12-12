@@ -44,18 +44,18 @@
 
 ## Team 
 ### Design (UX/UI)
-   <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
-   <a href="https://github.com/natashatorres">Natasha Torres</a>
-   <a href="https://github.com/betheld">Bethel Dawed</a>
+   <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me) </br>
+   <a href="https://github.com/natashatorres">Natasha Torres</a> </br>
+   <a href="https://github.com/betheld">Bethel Dawed</a> </br>
    <a href="https://github.com/sharob94">Shana Robinson</a>
 ### Front End 
-   <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
-   <a href="https://github.com/Enrique2656">Duane Rymarowicz</a>
-   <a href="https://github.com/NDNey">David Ney</a>
+   <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me) </br>
+   <a href="https://github.com/Enrique2656">Duane Rymarowicz</a> </br>
+   <a href="https://github.com/NDNey">David Ney</a> </br>
    <a href="https://github.com/natashatorres">Natasha Torres</a>
 ### Back End
-   <a href="https://github.com/Enrique2656">Duane Rymarowicz</a>
-   <a href="https://github.com/NDNey">David Ney</a>
+   <a href="https://github.com/Enrique2656">Duane Rymarowicz</a> </br>
+   <a href="https://github.com/NDNey">David Ney</a> </br>
    <a href="https://github.com/MagicMarcos">Marcos Cardoso</a> (me)
      
 ## Previews
